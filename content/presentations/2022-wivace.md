@@ -1,5 +1,5 @@
 ---
-title: "[Wivace 2024] Online Adaptation of Robots Controlled by Nanowire Networks: A Preliminary Study"
+title: "[Wivace 2022] Online Adaptation of Robots Controlled by Nanowire Networks: A Preliminary Study"
 pubtype: "Slides & Talk"
 date: "2022-09-16"
 link: "https://wivace2022.ce.unipr.it"
