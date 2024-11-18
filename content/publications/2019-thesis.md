@@ -26,6 +26,6 @@ The use of current computational systems is sometimes problematic in robotics, a
     author = {Baldini, Paolo},
     year   = {2019},
     school = {University of Bologna},
-    note   = {Supervisor: Andrea Roli}
+    note   = {Supervisor: Roli, Andrea}
 }
 ```
