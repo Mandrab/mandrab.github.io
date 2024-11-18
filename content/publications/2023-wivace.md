@@ -29,7 +29,7 @@ We argue that online adaptation is a key concept to achieve fault tolerance, all
 ```
 @inproceedings{braccini2024investigation,
     title        = {An Investigation of Graceful Degradation in Boolean Network Robots Subject to Online Adaptation},
-    author       = {Braccini, Michele and Baldini, Paolo and and Roli, Andrea},
+    author       = {Braccini, Michele and Baldini, Paolo and Roli, Andrea},
     booktitle    = {Artificial Life and Evolutionary Computation},
     booksubtitle = {17th Italian Workshop, WIVACE 2023, Venice, Italy, September 6--8, 2023, Revised Selected Papers},
     year         = {2024},
