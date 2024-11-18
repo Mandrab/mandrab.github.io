@@ -6,7 +6,7 @@ venue:          "University of Bologna -- Alma Mater Studiorum"
 venue_link:     "https://www.unibo.it"
 pub_type:       "Thesis"
 date:           "2022-03-18"
-article_link:   "https://amslaurea.unibo.it/25396/1/thesis.pdf"
+article_link:   "https://amslaurea.unibo.it/25396"
 article_pdf:    "media/thesis/2022-thesis.pdf"
 slides_pdf:     "media/presentations/2022-thesis.pdf"
 tags:           ["master thesis", "slides", "2022"]

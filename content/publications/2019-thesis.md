@@ -6,7 +6,7 @@ venue:          "University of Bologna -- Alma Mater Studiorum"
 venue_link:     "https://www.unibo.it"
 pub_type:       "Thesis"
 date:           "2019-10-10"
-article_link:   "https://amslaurea.unibo.it/19108/1/thesis.pdf"
+article_link:   "https://amslaurea.unibo.it/19108"
 article_pdf:    "media/thesis/2019-thesis.pdf"
 slides_pdf:     "media/presentations/2019-thesis.pdf"
 tags:           ["bachelor thesis", "slides", "2019"]
