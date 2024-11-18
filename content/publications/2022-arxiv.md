@@ -12,6 +12,7 @@ tags:           ["pre-print", "2022"]
 featured:       true
 sitemap:
     priority :  0.7
+weight:         2
 ---
 
 ### Abstract

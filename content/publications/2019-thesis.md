@@ -13,6 +13,7 @@ tags:           ["bachelor thesis", "slides", "2019"]
 featured:       true
 sitemap:
     priority :  0.1
+weight:         1
 ---
 
 ### Abstract

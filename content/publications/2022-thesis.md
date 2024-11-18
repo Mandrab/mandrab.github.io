@@ -13,6 +13,7 @@ tags:           ["master thesis", "slides", "2022"]
 featured:       true
 sitemap:
     priority :  0.1
+weight:         1
 ---
 
 ### Abstract

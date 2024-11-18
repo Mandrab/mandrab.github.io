@@ -12,6 +12,7 @@ tags:           ["journal", "article", "2023"]
 featured:       true
 sitemap:
     priority :  0.9
+weight:         4
 ---
 
 ### Abstract

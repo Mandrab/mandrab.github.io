@@ -13,6 +13,7 @@ tags:           ["conference", "article", "slides", "2023"]
 featured:       true
 sitemap:
     priority :  0.8
+weight:         3
 ---
 
 ### Abstract
