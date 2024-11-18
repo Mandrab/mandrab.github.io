@@ -21,7 +21,7 @@ Reservoir Computing is a relatively new framework created to allow the usage of 
 ```
 @article{baldini2022reservoir,
     title         = {Reservoir Computing in robotics: a review},
-    author        = {Baldini, P.},
+    author        = {Baldini, Paolo},
     journal       = {arXiv preprint arXiv:2206.11222},
     year          = {2022},
     archiveprefix = {arXiv},
