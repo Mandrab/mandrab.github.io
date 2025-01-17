@@ -1,0 +1,52 @@
+title =         "Paolo Baldini"
+baseURL =       "https://p-baldini.github.io/"
+theme =         [
+    "hugo-resume",
+    "osm"
+]
+languageCode =  "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address =       "Forlì-Cesena, Emilia Romagna, Italy"
+email =         "paolo.baldini.phd@gmail.com"
+favicon =       "media/images/favicon.ico"
+firstName =     "Paolo"
+lastName =      "Baldini"
+profileImage =  "media/images/profile_picture.png"
+showQr =        false
+showContact =   false
+showConferences = true
+sections =      [
+#    "experience",
+#    "projects",
+    "publications",
+    "conferences",
+    "education",
+]
+
+# [params.google]
+
+# [params.google.analytics]
+# trackerID = "XX-000000-00"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/baldini-paolo"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/p-baldini"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://x.com/pbmandrab"
+name = "X / Twitter"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
