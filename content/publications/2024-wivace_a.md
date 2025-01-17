@@ -1,5 +1,5 @@
 ---
-title:          "Cooperation in Evolved Modular Soft Robots"
+title:          "Cooperation in evolved modular soft robots"
 authors:        "Paolo Baldini, Michele Braccini, Filippo Benvenuti, Eric Medvet, Andrea Roli, Francesco Rusin"
 year:           "2024"
 venue:          "XVIII International Workshop on Artificial Life and Evolutionary Computation (WIVACE), Namur, Belgium"
@@ -14,6 +14,7 @@ featured:       true
 sitemap:
     priority :  0.8
 weight:         3
+alert_info:    "The article is currently under review. If accepted, the final version will be under embargo for 12 months."
 ---
 
 ### Abstract

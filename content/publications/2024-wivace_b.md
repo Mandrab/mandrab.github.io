@@ -1,5 +1,5 @@
 ---
-title:          "Emergent Dynamics in Heterogeneous Life-Like Cellular Automata"
+title:          "Emergent dynamics in heterogeneous life-like Cellular Automata"
 authors:        "Aarati Shrestha, Felix Reimers, Sanyam Jain, Paolo Baldini, Michele Braccini, Andrea Roli, Stefano Nichele"
 year:           "2024"
 venue:          "XVIII International Workshop on Artificial Life and Evolutionary Computation (WIVACE), Namur, Belgium"
@@ -14,6 +14,7 @@ featured:       true
 sitemap:
     priority :  0.8
 weight:         3
+alert_info:    "The article is currently under review. If accepted, the final version will be under embargo for 12 months."
 ---
 
 ### Abstract

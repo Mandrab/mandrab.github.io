@@ -1,5 +1,5 @@
 ---
-title:          "Online Adaptation of Robots Controlled by Nanowire Networks: A Preliminary Study"
+title:          "Online Adaptation of robots controlled by Nanowire Networks: a preliminary study"
 authors:        "Paolo Baldini, Michele Braccini, Andrea Roli"
 year:           "2023"
 venue:          "XVI International Workshop on Artificial Life and Evolutionary Computation (WIVACE), Gaeta, Italy"

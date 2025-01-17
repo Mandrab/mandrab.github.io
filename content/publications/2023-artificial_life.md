@@ -1,5 +1,5 @@
 ---
-title:          "Cell–Cell Interactions: How Coupled Boolean Networks Tend to Criticality"
+title:          "Cell–Cell interactions: how coupled boolean networks tend to criticality"
 authors:        "Paolo Baldini, Andrea Roli, Michele Braccini"
 year:           "2024"
 venue:          "Artificial Life"
